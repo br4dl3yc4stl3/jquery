@@ -4,7 +4,7 @@ body {
 }
 
 #carousel {
-	background: EEE7D5;
+	background: white;
 }
 
 #speakerbox {
@@ -44,6 +44,7 @@ body {
 }
 
 #speakerbox p {
+	background: white;
 	color: #1E3A40;
 	font-size: .9em;
 }
