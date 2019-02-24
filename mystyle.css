@@ -1,12 +1,12 @@
 body {
-	background: yellow;
+	background: FF9F1C;
 	font-family: 'Libre Baskerville';
 }
 
 #speakerbox {
 	width: 300px;
 	margin: 0 auto;
-	background: orange;
+	background: E71D36;
 	padding: 1px 20px;
 	border-radius: 10px;
 	overflow: hidden;
@@ -40,7 +40,7 @@ body {
 }
 
 #speakerbox p {
-	background: green;
+	background: 2EC4B6;
 	color: #1E3A40;
 	font-size: .9em;
 }
