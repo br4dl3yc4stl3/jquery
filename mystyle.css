@@ -1,16 +1,12 @@
 body {
-	background: white;
+	background: yellow;
 	font-family: 'Libre Baskerville';
-}
-
-#speakerstpl {
-	background: orange;
 }
 
 #speakerbox {
 	width: 300px;
 	margin: 0 auto;
-	background: white;
+	background: orange;
 	padding: 1px 20px;
 	border-radius: 10px;
 	overflow: hidden;
