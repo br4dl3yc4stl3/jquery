@@ -3,7 +3,7 @@ body {
 	font-family: 'Libre Baskerville';
 }
 
-#test {
+#speakerstpl {
 	background: orange;
 }
 
@@ -44,7 +44,7 @@ body {
 }
 
 #speakerbox p {
-	background: white;
+	background: green;
 	color: #1E3A40;
 	font-size: .9em;
 }
