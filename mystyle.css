@@ -3,6 +3,10 @@ body {
 	font-family: 'Libre Baskerville';
 }
 
+.speaker {
+	background: EEE7D5;
+}
+
 #speakerbox {
 	width: 300px;
 	margin: 0 auto;
